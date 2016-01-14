@@ -4,7 +4,9 @@
 
 ---
 
-Created as my favourite ST theme's have some minor issues with aspects of the Elixir Syntax. This is a work in progress. Contributions welcome!
+Created as my favourite ST theme's have some minor issues with aspects of the Elixir syntax. This is a work in progress.
+
+**Contributions welcome!**
 
 ## Installation
 
