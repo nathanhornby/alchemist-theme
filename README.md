@@ -6,8 +6,6 @@
 
 Created as my favourite ST theme's have some minor issues with aspects of the Elixir syntax. This is a work in progress.
 
-Now complete with a bonus iTerm theme with the same palette! (comes to life when using [Oh My Zsh](http://ohmyz.sh/))
-
 **Contributions welcome!**
 
 ## Sublime Text theme installation
@@ -36,3 +34,9 @@ I'd recommend cloning directly from GitHub, that way contributions and updates w
 
 ### JavaScript:
 ![JavaScript](http://i.imgur.com/BpNp5tk.png)
+
+## iTerm theme
+
+Now complete with a bonus iTerm theme with the same palette! (comes to life when using [Oh My Zsh](http://ohmyz.sh/))
+
+![iTerm theme preview](https://i.imgur.com/vYse0Aw.png)
