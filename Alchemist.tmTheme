@@ -250,6 +250,141 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Markdown: Plain</string>
+      <key>scope</key>
+      <string>text.html.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFFFFF</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markup: Raw Inline</string>
+      <key>scope</key>
+      <string>text.html.markdown markup.raw.inline</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FB7D7D</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markup: Heading</string>
+      <key>scope</key>
+      <string>Markdown.heading, markup.heading | markup.heading entity.name, markup.heading.markdown punctuation.definition.heading.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#FB7D7D</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markup: Italic</string>
+      <key>scope</key>
+      <string>markup.italic</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markup: Bold</string>
+      <key>scope</key>
+      <string>markup.bold</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>bold</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markup: Underline</string>
+      <key>scope</key>
+      <string>markup.underline</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>underline</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markup: strike</string>
+      <key>scope</key>
+      <string>markup.strike</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string></string>
+        <key>foreground</key>
+        <string>#000</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markdown: Blockquote</string>
+      <key>scope</key>
+      <string>markup.quote, punctuation.definition.blockquote.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#66D9EF</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markup: Quote</string>
+      <key>scope</key>
+      <string>markup.quote</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+        <key>foreground</key>
+        <string>#66D9EF</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markup: Link</string>
+      <key>scope</key>
+      <string>string.other.link.title.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>underline</string>
+        <key>foreground</key>
+        <string>#FFD973</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Markdown: Separator</string>
+      <key>scope</key>
+      <string>meta.separator</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#3A454C</string>
+        <key>fontStyle</key>
+        <string>bold</string>
+        <key>foreground</key>
+        <string>#72828C</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>Invalid</string>
       <key>scope</key>
       <string>invalid</string>
