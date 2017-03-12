@@ -15,12 +15,18 @@
         <string>#F8F8F0</string>
         <key>foreground</key>
         <string>#FAF4FF</string>
+        <key>gutterForeground</key>
+        <string>#596A7D</string>
         <key>invisibles</key>
         <string>#72828C</string>
         <key>lineHighlight</key>
         <string>#3A454C</string>
         <key>selection</key>
         <string>#425058</string>
+        <key>guide</key>
+        <string>#394149</string>
+        <key>activeGuide</key>
+        <string>#4E555C</string>
       </dict>
     </dict>
     <dict>
