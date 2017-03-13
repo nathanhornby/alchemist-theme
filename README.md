@@ -19,6 +19,8 @@ I'd recommend cloning directly from GitHub, that way contributions and updates w
 
 'alchemist-theme' should now be available in Sublime Text under 'Color Scheme' in 'Preferences'.
 
+To complete the experience you can also grab my settings file [here](https://gist.github.com/nathanhornby/2e0817cedf0981e06ad5).
+
 *n.b. I'll eventually add the scheme to Sublime Text package manager, once I consider it more complete.*
 
 ## Screenshots
