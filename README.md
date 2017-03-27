@@ -4,9 +4,7 @@
 
 ---
 
-Created as my favourite ST theme's have some minor issues with aspects of the Elixir syntax. This is a work in progress.
-
-**Contributions welcome!**
+Created as my favourite ST theme's have some minor issues with aspects of the Elixir syntax. This is a work in progress,  **contributions are welcome!**
 
 ## Sublime Text theme installation
 
@@ -21,24 +19,22 @@ I'd recommend cloning directly from GitHub, that way contributions and updates w
 
 To complete the experience you can also grab my settings file [here](https://gist.github.com/nathanhornby/2e0817cedf0981e06ad5).
 
-*n.b. I'll eventually add the scheme to Sublime Text package manager, once I consider it more complete.*
-
 ## Screenshots
 
 ### Elixir:
-![Elixir](http://i.imgur.com/5zfeeO6.png)
+![Elixir](http://i.imgur.com/iTSTMy9.png)
 
-### Stylus/CSS:
-![Stylus](http://i.imgur.com/jefulxM.png)
+### CSS:
+![CSS](http://i.imgur.com/R2pFkni.png)
 
 ### HTML:
-![HTML](http://i.imgur.com/qb34YCW.png)
+![HTML](http://i.imgur.com/hWZgnQu.png)
 
 ### JavaScript:
-![JavaScript](http://i.imgur.com/BpNp5tk.png)
+![JavaScript](http://i.imgur.com/ONlXN8u.png)
 
 ## iTerm theme
 
-Now complete with a bonus iTerm theme with the same palette! (comes to life when using [Oh My Zsh](http://ohmyz.sh/))
+Comes to life when using [Oh My Zsh](http://ohmyz.sh/))
 
-![iTerm theme preview](https://i.imgur.com/vYse0Aw.png)
+![iTerm](https://i.imgur.com/vYse0Aw.png)
